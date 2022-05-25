@@ -2,4 +2,4 @@
 - 👀 I’m interested in physics, maths and astronomy.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (?)
-- 📫 How to reach me @giorgio.ssg
+- 📫 Reach me @giorgio.ssg
