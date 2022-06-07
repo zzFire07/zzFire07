@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzFire07
 - 👀 I’m interested in physics, maths and astronomy.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C++ and Arduino.
 - 💞️ I’m looking to collaborate on (?)
 - 📫 Reach me @giorgio.ssg
