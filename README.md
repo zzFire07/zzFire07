@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzFire07
 - 👀 I like maths and astronomy, i like to see anime in my free time and play some videogames. ˙ᵕ˙
-- 🌱 I’m currently learning C#. I have a bit of knowledge about python, C++ and Arduino.
+- 🌱 I’m currently learning React, Express, NodeJS.
 - 💞️ I’m looking to collaborate on (?)
 - 📫 Reach me on my IG @giorgio.ssg  ૮ ˶ᵔ ᵕ ᵔ˶ ა
