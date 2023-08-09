@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzFire07
 - 👀 I like maths and astronomy, i like to see anime in my free time and play some videogames. ˙ᵕ˙
 - 🌱 I’m currently learning React, Express, NodeJS.
-- 💞️ I’m looking to collaborate on (?)
+- 💞️ I’m looking to collaborate on some good project WEB3 :D
 - 📫 Reach me on my IG @giorgio.ssg  ૮ ˶ᵔ ᵕ ᵔ˶ ა
