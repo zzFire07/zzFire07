@@ -1,7 +1,7 @@
 # *Hi there! I’m @zzFire07 👋*
 
-- 👀 I like maths and astronomy, i like to see anime in my free time and play some videogames. ˙ᵕ˙
-- 🌱 I’m currently learning NodeJS, SQL and TypeScript.
+- 👀 I like maths and astronomy, In my free time I watch anime and play some videogames. ˙ᵕ˙
+- 🌱 I’m currently learning AngularJS, Solidity and TypeScript.
 - 💞️ Looking to collaborate on some good WEB3 project.
 
 #### 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
