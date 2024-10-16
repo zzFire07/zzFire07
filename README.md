@@ -1,5 +1,3 @@
-# *Hi there! I’m @zzFire07 👋*
-
 - 👀 I like maths and astronomy, In my free time I watch anime and play videogames. ˙ᵕ˙
 - 🌱 I’m currently learning AngularJS, Solidity and TypeScript.
 - 💞️ Looking to collaborate on some good WEB3 project.
