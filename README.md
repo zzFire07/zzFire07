@@ -7,11 +7,11 @@
 # 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 ### “I don't want to believe. I want to know.” ― Carl Sagan
-\br
-/br
-\br
-
-
+ 
+ 
+   
+ 
+ 
 ## My conquisted languagues, tools and frameworks ~~
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
