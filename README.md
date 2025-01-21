@@ -1,12 +1,31 @@
+## About me
+
+<br>
+
 - 👀 I like maths and astronomy, In my free time I watch anime and play videogames. ˙ᵕ˙
 - 🌱 I’m currently learning AngularJS, Solidity and TypeScript.
 - 💞️ Looking to collaborate on some good WEB3 project.
 
+<br>
+<br>
+
 # 💼 Take a look at my [Giorgio's Portfolio](https://personal-website-kappa-ten-91.vercel.app)  ( ˶ˆᗜˆ˵ )
+
+<br>
 
 # 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
+<br>
+<br>
+<br>
+
 ### “I don't want to believe. I want to know.” ― Carl Sagan
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -14,6 +33,7 @@
 <br>
 
 ## My conquisted languagues, tools and frameworks ~~
+<br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
