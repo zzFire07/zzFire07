@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning AngularJS, Solidity and TypeScript.
 - 💞️ Looking to collaborate on some good WEB3 project.
 
-# 💼 Look at my web portfolio! [Giorgio's Portfolio](https://personal-website-kappa-ten-91.vercel.app)  ( ˶ˆᗜˆ˵ )
+# 💼 Take a look at my [Giorgio's Portfolio](https://personal-website-kappa-ten-91.vercel.app)  ( ˶ˆᗜˆ˵ )
 
 # 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
