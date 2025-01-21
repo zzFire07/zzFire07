@@ -1,12 +1,9 @@
 ## About me
 
-<br>
-
 - 👀 I like maths and astronomy, In my free time I watch anime and play videogames. ˙ᵕ˙
 - 🌱 I’m currently learning AngularJS, Solidity and TypeScript.
 - 💞️ Looking to collaborate on some good WEB3 project.
 
-<br>
 <br>
 
 # 💼 Take a look at my [Giorgio's Portfolio](https://personal-website-kappa-ten-91.vercel.app)  ( ˶ˆᗜˆ˵ )
@@ -15,6 +12,9 @@
 
 # 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
