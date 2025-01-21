@@ -6,6 +6,9 @@
 
 # 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
+### “I don't want to believe. I want to know.” ― Carl Sagan
+#
+#
 
 
 ## My conquisted languagues, tools and frameworks ~~
