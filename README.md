@@ -118,6 +118,10 @@ React.JS <br>
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzFire07&show_icons=true&theme=dracula&title_color=FFFF00&text_color=FFFFFF&bg_color=560860&locale=en&layout=compact&hide_border=true" alt="#zzFire07" /> 
-<img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=zzFire07&show_icons=true&theme=dracula&title_color=FFFF00&text_color=FFFFFF&bg_color=560860&locale=en&hide_border=true" alt="#zzFire07" />
+  
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzFire07&show_icons=true&theme=dracula&title_color=FFFF00&text_color=FFFFFF&bg_color=560860&locale=en&layout=compact&hide_border=true" alt="#zzFire07" /> 
+  
 <br>
+<br>
+  
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=zzFire07&show_icons=true&theme=dracula&title_color=FFFF00&text_color=FFFFFF&bg_color=560860&locale=en&hide_border=true" alt="#zzFire07" />
