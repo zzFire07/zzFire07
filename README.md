@@ -6,7 +6,7 @@
 
 <br>
 
-# 💼 Take a look at my [Web Portfolio](https://personal-website-kappa-ten-91.vercel.app)  ( ˶ˆᗜˆ˵ )
+# 💼 Take a look at my [Web Portfolio](https://giorgio-santi.tech)  ( ˶ˆᗜˆ˵ )
 
 <br>
 
