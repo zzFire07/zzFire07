@@ -92,23 +92,27 @@
 ![Firebase](https://img.shields.io/badge/firebase%20-%20%23000000?style=for-the-badge&logo=firebase&logoColor=%23DD2C00)
 
 ## Experience developing in the following stacks ~~
-### PERN
+### Full Stack - PERN
 P = PostgreSQL <br>
 E = Express.JS <br>
 R = React.JS <br>
 N = Node.JS <br>
 
-### Expo + Firebase Stack
+### Front End - Expo + Firebase Stack
 Expo Go <br>
 React Native <br>
 Typescript <br>
 Firebase DB <br>
 Firebase Auth <br>
 
-### Spring Boot + React Stack
+### Full Stack - Spring Boot + React Stack
 Java 20 <br>
 Spring Boot 3 <br>
 React.JS <br>
+
+### Back End - NodeJS + TypeScript 
+Node.JS
+TypeScript
 
 <br>
 
