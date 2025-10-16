@@ -33,11 +33,10 @@
 <br>
 <br>
 <br>
-<br>
 
-### “I don't want to believe. I want to know.” ― Carl Sagan
+### “It is sometimes said that scientists are unromantic, that their passion to figure out robs the world of beauty and mystery. But is it not stirring to understand how the world actually works — that white light is made of colors, that color is the way we perceive the wavelengths of light, that transparent air reflects light, that in so doing it discriminates among the waves, and that the sky is blue for the same reason that the sunset is red? It does no harm to the romance of the sunset to know a little bit about it.” <br>
+#### ― Carl Sagan, Pale Blue Dot: A Vision of the Human Future in Space
 
-<br>
 <br>
 <br>
 <br>
