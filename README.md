@@ -1,8 +1,8 @@
 ## About me
 
 - 👀 I like maths and astronomy, In my free time I watch anime and play videogames. ˙ᵕ˙
-- 🌱 I’m currently learning AngularJS, Solidity and TypeScript.
-- 💞️ Looking to collaborate on some good WEB3 project.
+- 🌳 Deepening my expertise in JavaScript, TypeScript, and Node.js.
+- 🌱 On my roadmap: Angular & Solidity.
 
 <br>
 
@@ -12,6 +12,8 @@
 
 # 📫 Contact me on my [LinkedIn](https://www.linkedin.com/in/giorgio-santi-dev/)  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -45,6 +47,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## My Front-End Stack for Development ~~
 <br>
@@ -52,10 +56,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/Type%20Script%20-%20%2331A8E6?style=for-the-badge&logo=tsnode)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo Go](https://img.shields.io/badge/Expo%20Go%20-%20gray?style=for-the-badge&logo=expo)
-![TypeScript](https://img.shields.io/badge/Type%20Script%20-%20%2331A8E6?style=for-the-badge&logo=tsnode)
 
 
 
@@ -68,7 +72,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%20%2360A839?style=for-the-badge)
 ![Java Spring 3](https://img.shields.io/badge/spring-github?style=for-the-badge&logo=spring&color=grey)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node JS](https://img.shields.io/badge/Node%20JS%20-%20%235FC08E?style=for-the-badge&logo=nodedotjs&color=grey)
+![TypeScript](https://img.shields.io/badge/Type%20Script%20-%20%2331A8E6?style=for-the-badge&logo=tsnode)
 
 <br>
 
@@ -111,6 +117,7 @@ Spring Boot 3 <br>
 React.JS <br>
 
 ### Back End - NodeJS + TypeScript 
+JavaScript
 Node.JS
 TypeScript
 
