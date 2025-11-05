@@ -1,6 +1,6 @@
 ## About me
 
-- 👀 I like maths and astronomy, In my free time I watch anime and play videogames. ˙ᵕ˙
+- 👀 I like maths and astronomy, I spend my free time watching anime and playing videogames. ˙ᵕ˙
 - 🌳 Deepening my expertise in JavaScript, TypeScript, and Node.js.
 - 🌱 On my roadmap: Angular & Solidity.
 
